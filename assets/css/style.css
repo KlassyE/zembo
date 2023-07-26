@@ -510,7 +510,7 @@ label {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
-  
+
   background-color: #ffffff;
   border: 1px solid #cccccc;
 }
@@ -2040,7 +2040,8 @@ p {
   margin-bottom: 0px;
   line-height: 48px;
   text-align: center;
-  color: white !important;
+  color: rgb(12, 164, 235) !important;
+  font-weight:bolder;
 }
 
 .hero-grid__subheading {
@@ -2048,7 +2049,8 @@ p {
   font-family: "Gotham Light", sans-serif;
   font-size: 17px;
   text-align: center;
-  color: white !important;
+  color: rgb(11, 161, 11) !important;
+  font-weight : bold;
 }
 
 .hero-grid__subheading.hero-grid__subheading--alight-left {
